@@ -24,6 +24,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 * Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
 * Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dafatrizaa/oklh-v)
 
 ```bash
 git clone https://github.com/DikaArdnt/Hisoka-Morou
